@@ -4,8 +4,6 @@
 
 ### Transformando dados em decisões e decisões em interfaces que fazem sentido.
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Data+%26+Analytics+Enthusiast;Ex-UI%2FUX+%2B+Mobile+Developer;SQL+%7C+Python+%7C+Storytelling+com+Dados;Sempre+aprendendo+algo+novo+🚀&font=Fira%20Code&center=true&width=500&height=45&color=2E9EF7&vCenter=true&size=22">
-
 </div>
 
 ---
