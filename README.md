@@ -88,7 +88,7 @@ Aplicativo mobile desenvolvido com **Ionic + Capacitor**, consumindo a **RAWG AP
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/wagner-augusto-31a8ba341/" target="_blank">
+<a href="https://www.linkedin.com/in/owagner7/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:wagneraugustojr09@gmail.com">
